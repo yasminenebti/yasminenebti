@@ -2,11 +2,8 @@
 <h4>I'm a web developer</h4>
 
 - 🔭 I’m currently working on **fullstack web applications**
-
 - 🌱 I’m currently learning **GraphQL and NestJS**
-
 - 📫 How to reach me **yasminenebti@gmail.com**
-
 - ⚡ Fun fact **I love to play chess**
 
 <h3 align="left">Connect with me:</h3>
