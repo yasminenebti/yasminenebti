@@ -1,8 +1,7 @@
 <h4>Hi 👋, I'm Yasmine Nebti</h4>
-<h4>I'm a web developer</h4>
+<h4>I'm a Software Engineering Student</h4>
 
-- 🔭 I’m currently working on **fullstack web applications**
-- 🌱 I’m currently learning **GraphQL and NextJS**
+- 🌱 I’m currently learning **SpringBoot**
 - 📫 How to reach me **yasminenebti@gmail.com**
 - ⚡ Fun fact **I love to play chess**
 
